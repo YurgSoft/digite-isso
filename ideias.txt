@@ -1,0 +1,7 @@
+ideia principal sera um software de degitalizacao de textos
+
+ele tera que ler um arquivo ou o utilizador devera ensirir o texto de forma direito para poder ser exercitada
+
+ele devera mostrar o nivel de tarefa comprida, junto com os textos em andamentos doque tera de ser digitalizado
+
+
